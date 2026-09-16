@@ -275,6 +275,12 @@ https://github.com/AGE-T/Stripe-webgl-effect
 
 Current experimental versions include multiple standalone HTML stages.
 
-## Security
+## ☕ Támogatás / Support
+Ha hasznosnak találod a projektet és szeretnéd támogatni a munkámat, meghívhatsz egy kávéra! 
+If you find this project helpful and want to support my work, feel free to buy me a coffee!
 
-Never store GitHub tokens, personal access tokens, passwords, API keys or other credentials in this repository.
+[![Support me on Ko-fi](https://img.shields.io/badge/Support_on_Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/thomashoysgameaudio)
+
+Vagy kattints az alábbi gombra / Or click the button below:
+
+<a href="https://ko-fi.com/thomashoysgameaudio" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi Support" style="height: 36px !important;" referrerPolicy="no-referrer" /></a>
